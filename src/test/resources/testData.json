@@ -1,0 +1,13 @@
+{
+  "createRequest": {
+    "name": "Tenali Ramakrishna",
+    "gender": "male",
+    "status": "active"
+  },
+  "putRequest": {
+    "name": "Tenali Ramakrishna",
+    "gender": "male",
+    "email": "testuser1658918244522@15ce.com",
+    "status": "active"
+  }
+}
